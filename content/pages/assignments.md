@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on the assignments for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 580600b5-5371-ebd3-ca55-92eb636661a4
 ---
@@ -59,7 +63,7 @@ Assignment 5
 Topics for the 10-minute presentation about petroleum formation and occurrence.
 
 *   Proxies for oxygen content in the past
-*   δ13C of oils with different ages
+*   δ{{< sup "13" >}}C of oils with different ages
 *   Kerogen color index
 *   Van Krevelen diagrams
 *   Methods to improve oil recovery
